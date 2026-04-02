@@ -1,769 +1,93 @@
-<!DOCTYPE html>
-<html lang="en">
-  
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Dhruboraj Roy</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
+<h1 align="center">Hi 👋, I'm Dhruboraj Roy</h1>
+<h3 align="center">Civil Engineering Undergraduate | Hydrology Researcher | Backend Developer</h3>
 
-    <!-- Styles -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
-    <link rel="stylesheet" type="text/css" href="css/scss/style.css" />
-    <link rel="stylesheet" href="css/icons.css" />
-    <link rel="stylesheet" type="text/css" href="css/scss/responsive.css" />
-  </head>
-  <body>
+---
 
-    <img src="images/element_parallax1.png" class="vx" alt="" data-enllax-ratio="0.3" data-enllax-type="foreground" />
-    <img src="images/element_parallax2.png" class="vx2" alt="" data-enllax-ratio="-1" data-enllax-type="foreground" />
-    <img src="images/element_animation.png" class="vx" alt="" data-enllax-ratio="0.8" data-enllax-type="foreground" />
+## 🌍 About Me
 
-    <div class="page-loading">
-      <img src="images/loader.gif" alt="" />
-      <span>Skip Loader</span>
-    </div>
+🎓 Civil Engineering student at Barishal Engineering College (University of Dhaka)  
+💧 Research enthusiast in **Hydrology, Flood Modeling & Climate Change**  
+🌊 Working on **Salinity Intrusion & Water Resource Management in Bangladesh**  
+💻 Backend Developer (PHP, MySQL, Web Systems)  
+🏆 ICCR Subarna Jayanti Scholar  
 
-    <section id="start">
-      <div class="block start_bg double_gap_top double_gap_bottom">
-        <div class="container fluid">
-          <div class="row">
-            <div class="col-xl-12">
-              <div class="start_sec">
-                <div class="row justify-content-center align-items-center">
-                  <div class="col-xl-5 text-center order-last">
-                    <div class="user_img">
-                      <div class="element"><img src="images/element_square.png" alt="" /></div>
-                      <div class="element_circle_yellow"><img src="images/element_yellow_circle.png" alt="" /></div>
-                      <div class="element_circle_pink"><img src="images/element_pink_circle.png" alt="" /></div>
-                      <div class="element_circle_small_pink"><img src="images/element_pink_circle_small.png" alt="" /></div>
-                      <div class="element_square"><img src="images/element_square_yes.png" alt="" /></div>
-                      <div class="element_circle_purple"><img src="images/element_purple_circle.png" alt="" /></div>
-                      <div class="element_line"><img src="images/line.png" alt="" /></div>
-                      <div class="element_circle_gray"><img src="images/element_gray_circle.png" alt="" /></div>
-                      <img src="images/resource/Dhrubo.jpg" alt="" />
-                    </div>
-                  </div>
-                  <div class="col-xl-4 order-first">
-                    <div class="start_intro">
-                      <span class="RedTextColor">Hi, I' Am</span>
-                      
-                      <div class="glitch" data-text="Dhrubo Raj Roy">Dhrubo Raj Roy</div>
-                      <h4><i class="fa fa-connectdevelop"></i> Civil Engineering Student at Barishal Engineering College.</h4>
-                      <p>I am 24 years old back-end developer from Bangladesh </p>
-                      <div class="start_btn">
-                        <a href="https://github.com/dhruborajroy/Dhruboraj-cv/blob/main/Dhruboraj-cv.pdf" title="" class="theme_btn RedBgShadow mr-4"><i class="fa fa-long-arrow-down"></i> Download Resume</a>
-                        <!-- <a href="#" title="" class="theme_btn  blank"><i class="fa PurpleTextColor  fa-lastfm"></i> Hire me</a> -->
-                      </div>
-                    </div>
-                  </div>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+---
 
-    <header class="main-nav">
-      <div class="container">
-        <div class="wrapper-menu" id="open-full-screen">
-          <div class="line-menu half start"></div>
-          <div class="line-menu"></div>
-          <div class="line-menu half end"></div>
-        </div>
-        <nav>
-          <ul>
-            <li>
-              <a href="#start" class="RedTextColor" title=""><span>Start</span></a>
-            </li>
-            <li>
-              <a href="#experience" class="SkyBlueTextColor" title=""><span>Scholarships & Awards</span></a>
-            </li>
-            <li>
-              <a href="#skills" class="PurpleTextColor" title=""><span>Skills</span></a>
-            </li>
-            <li>
-              <a href="#education" class="PinkTextColor" title=""><span>Education</span></a>
-            </li>
-            <li>
-              <a href="#hobbies" class="GrayTextColor" title=""><span>Hobbies</span></a>
-            </li>
-            <li>
-              <a href="#projects" class="YellowTextColor" title=""><span>Projects</span></a>
-            </li>
-            <li>
-              <a href="#contact_us" class="GrayTextColor" title=""><span>Contact</span></a>
-            </li>
-          </ul>
-        </nav>
-      </div>
-    </header>
+## 🔬 Research Focus
 
-    <section>
-      <div class="block">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-xl-10">
-              <div class="about_me_sec">
-                <div class="element_about_left"><img src="images/element_about_left.png" alt="" /></div>
-                <div class="element_about_right"><img src="images/element_about_right.png" alt="" /></div>
-                <div class="heading">
-                  <span class="RedTextColor">Here you will find my resume</span>
-                  <h1>About Me</h1>
-                </div>
-                <p>👋 Hi, I’m Dhruboraj, a final year Civil Engineering student at Barishal Engineering College. I merge a robust foundation in structural engineering with hands-on tech experience in designing and coding applications. My academic achievements speak for themselves – maintaining a CGPA of 3.47 in a rigorous program, and a flawless GPA of 4.00 during my earlier educational pursuits.</p>
-                <p>I am also a backend developer. I have completed more than 30 projects including School Management Syetem, University Admission Management System, Ecommerce Website etc.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+- Flood Modeling & River Hydraulics  
+- Salinity Intrusion in Coastal Bangladesh  
+- Managed Aquifer Recharge (MAR)  
+- Climate Change Impact on Water Resources  
+- Groundwater Modeling (MODFLOW)
 
-    <section id="experience">
-      <div class="block remove_top">
-        <div class="container fluid">
-          <div class="row justify-content-center">
-            <div class="col-xl-9">
-                <div class="heading center">
-                  <span class="PurpleTextColor">SCHOLARSHIP & AWARDS
-                  </span>
-                  <!-- <h1>5 years of <i>experience</i></h1> -->
-                </div>
-                <div class="exp_slider_sec">
-                  <div class="element_triangle"><img src="images/element_experience.png" alt="" /></div>
-                  <ul class="exp_slider">
-                    <li>
-                      <div class="experience">
-                        <div class="exp_tip">
-                          <h4>ICCR (Indian Council for Cultural Relations) Scholarship </h4>
-                          <span>On the scheme of Subarna Jayanti
-                            Scholarship (SJS) at National Institute of Technology, Patna(NIT, Patna) </span>
-                        </div>
-                        <div class="row">
-                          <div class="col-xl-12">
-                            <div class="dot RedLight"><i class="RedDark"></i></div>
-                          </div>
-                        </div>
-                        <span class="RedTextColor">2022 </span>
-                        <div class="exp_logo">
-                          <img src="images/resource/nit_patna.png" alt="nit_patna" style="    width: 25%;"/>
-                        </div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="experience">
-                        <div class="exp_tip">
-                          <h4>Board Scholarship </h4>
-                          <span> JSC 2015.</span>
-                        </div>
-                        <div class="row">
-                          <div class="col-xl-12">
-                            <div class="dot PurpleLight"><i class="PurpleDark"></i></div>
-                          </div>
-                        </div>
-                        <span class="PurpleTextColor">2015 </span>
-                        <div class="exp_logo">
-                          <img src="images/resource/exp_logo1.png" alt="" />
-                        </div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="experience ">
-                        <div class="exp_logo">
-                          <img src="images/resource/exp_logo2.png" alt="" />
-                        </div>
-                        <span class="GreenTextColor">2012 - Current</span>
-                        <div class="row">
-                          <div class="col-xl-12">
-                            <div class="dot GreenLight"><i class="GreenDark"></i></div>
-                          </div>
-                        </div>
-                        <div class="exp_tip">
-                          <h4>Board Scholarship</h4>
-                          <span>PSC 2015</span>
-                        </div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="experience flip">
-                        <div class="exp_logo">
-                          <img src="images/resource/exp_logo2.png" alt="" />
-                        </div>
-                        <span class="SkyBlueTextColor">2012 - Current</span>
-                        <div class="row">
-                          <div class="col-xl-12">    
-                            <div class="dot SkyBlueLight"><i class="SkyBlueDark"></i></div>
-                          </div>
-                        </div>
-                        <div class="exp_tip">
-                          <h4>Developed a mobile app </h4>
-                          <span>“Krrisan Bondhu” and participated in “Children Science
-                            Congress-2017</span>
-                        </div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="experience">
-                        <div class="exp_tip">
-                          <h4>Developed a mobile app “Krrisan Bondhu” and stood Lalmonirhat Zila First at “Science
-                            fair - 2017”</h4>
-                          <span>Jun. [2017]</span>
-                        </div>
-                        <div class="row">
-                          <div class="col-xl-12">
-                            <div class="dot PinkLight"><i class="PinkDark"></i></div>
-                          </div>
-                        </div>
-                        <span class="PinkTextColor">2016 - 2017</span>
-                        <div class="exp_logo">
-                          <img src="images/resource/exp_logo3.png" alt="" />
-                        </div>
-                      </div>
-                    </li>
-                  </ul>
-                </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+---
 
-    <section id="skills">
-      <div class="block remove_top">
-        <div class="element_city"><img src="images/element_city.jpg" alt="" /></div>
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-xl-10">
-                <div class="heading">
-                  <span class="SkyBlueTextColor">Some Cool Skills</span>
-                  <h1>Skills & <i>abilities</i></h1>
-                </div>
-                <div class="skill_sec">
-                  <div class="progress_sec">
-                    <h3>AutoCad</h3>
-                    <div class="skill_shape">
-                      <div class="skill_bar RedBgShadow"  style="width: 76%;">
-                        <span class="RedTextColor">76<i>%</i></span>
-                      </div>
-                    </div>
-                  </div><!-- Skills -->
-                  <div class="progress_sec">
-                    <h3>PHP</h3>
-                    <div class="skill_shape">
-                      <div class="skill_bar RedBgShadow"  style="width: 68%;">
-                        <span class="RedTextColor">68<i>%</i></span>
-                      </div>
-                    </div>
-                  </div><!-- Skills -->
-                  <div class="progress_sec">
-                    <h3>Html & Css</h3>
-                    <div class="skill_shape">
-                      <div class="skill_bar PurpleBgShadow" style="width: 55%;">
-                        <span class="PurpleTextColor" >55<i>%</i></span>
-                      </div>
-                    </div>
-                  </div><!-- Skills -->
-                  <div class="progress_sec">
-                    <h3>JavaScript / jQuery</h3>
-                    <div class="skill_shape">
-                      <div class="skill_bar GreenBgShadow" style="width: 60%;">
-                        <span class="GreenTextColor" >60<i>%</i></span>
-                      </div>
-                    </div>
-                  </div><!-- Skills -->
-                </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+## 📄 Thesis
 
-    <section  id="hobbies">
-      <div class="block bg_light">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-xl-10">
-                <div class="heading center">
-                  <span class="YellowTextColor">Some Cool Skills</span>
-                  <h1>Hobbies & <i>Interests</i></h1>
-                </div>
-                <div class="hobbies_sec">
-                  <div class="hobbies">
-                    <div class="element_hobbies">
-                      <img src="images/element_hobbies1.png" alt="" />
-                    </div>
-                    <div class="hobbies_icon_box">
-                      <img src="images/resource/hobbies_icon1.png" alt="">
-                    </div>
-                    <h4>  </h4>
-                    <span>Traveling</span>
-                  </div>
-                  <div class="hobbies">
-                    <div class="element_hobbies">
-                      <img src="images/element_hobbies2.png" alt="" />
-                    </div>
-                    <div class="hobbies_icon_box">
-                      <img src="images/resource/hobbies_icon2.png" alt="">
-                    </div>
-                    <h4>    </h4>
-                    <span>Coding</span>
-                  </div>
-                  <div class="hobbies">
-                    <div class="element_hobbies">
-                      <img src="images/element_hobbies3.png" alt="" />
-                    </div>
-                    <div class="hobbies_icon_box">
-                      <img src="images/resource/hobbies_icon3.png" alt="">
-                    </div>
-                    <h4>  </h4>
-                    <span>Music</span>
-                  </div>
-                </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+**Impact of Indian Water Withdrawal on Irrigation in Northern Bangladesh:  
+A Hydrological and Agricultural Analysis**
 
-    <section id="education">
-      <div class="block">
-        <div class="element_moutains_left"><img src="images/element_city.jpg" alt="" /></div>
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-xl-10">
-                <div class="heading">
-                  <span class="PinkTextColor">Some Cool Skills</span>
-                  <h1>My <i>Education</i></h1>
-                  <div class="heading_paragraph">
-                    <div class="row">
-                      <div class="col-xl-8">
-                        <p>This is probably the greatest thing to happen in my life - to be able to share this with you. Happy painting, God bless. </p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="education_sec">
-                  <div class="row align-items-center">
-                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
-                      <div class="education_box PinkDarkBorder">
-                        <i class="fa  fa-graduation-cap PinkTextColor"></i>
-                        <h3>Lalmonirhat Govt. High School</h3>
-                        <span>2013 to 1918</span>
-                      </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
-                      <div class="education_box YellowDarkBorder">
-                        <i class="fa  fa-graduation-cap YellowTextColor"></i>
-                        <h3>Police Lines School & College Rangpur</h3>
-                        <span>2018 to 2020</span>
-                      </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-12 col-md-12 col-sm-12">
-                      <div class="education_box GreenDarkBorder">
-                        <i class="fa  fa-graduation-cap GreenTextColor"></i>
-                        <h3>Civil Engineering, Barishal Engineering College</h3>
-                        <span>2022 to present</span>
-                      </div>
-                    </div>
-                    <!-- <div class="col-xl-2  col-lg-12"></div>
-                      <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
-                        <div class="education_box SkyBlueDarkBorder">
-                          <i class="fa  fa-graduation-cap SkyBlueTextColor"></i>
-                          <h3>Matric in Cadet Quoto</h3>
-                          <span>1990 to 1988</span>
-                        </div>
-                    </div> 
-                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
-                      <div class="education_box RedDarkBorder">
-                        <i class="fa  fa-graduation-cap RedTextColor"></i>
-                        <h3>Inter in Media College</h3>
-                        <span>1990 to 1988</span>
-                      </div>
-                    </div>
-                    <div class="col-xl-2"></div> -->
-                  </div>
-                    
-                </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+---
 
-    <section id="projects">
-      <div class="block remove_top">
-        <div class="element_moutains_right"><img src="images/element_mountains_flip.jpg" alt="" /></div>
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-xl-10">
-                <div class="heading center">
-                  <h1><strong><i> 5+</i></strong>clients and agencies are using my projects</h1>
-                </div>
-                <section id="options">
-                  <div class="option-isotop">
-                    <ul id="filter" class="option-set portfolio-nav" data-option-key="filter">
-                      <li><a href="#all" data-option-value="*" class="selected"><span>All</span></a></li>
-                      <li><a href="#educational" data-option-value=".cat1"><span>Educational</span></a></li>
-                      <li><a href="#e-commerce" data-option-value=".cat2"><span>E-commerce</span></a></li>
-                     <!-- <li><a href="#artistics" data-option-value=".cat3"><span>Artistics</span></a></li> -->
-                    </ul>
-                  </div>
-              </section>
-              <div class="grids-sec">
-                  <div class="row" id="masonry">
-                      <div class="col-lg-4  col-md-6 col-sm-6 col-xs-12 cat1">
-                        <div class="project_box">
-                          <div class="project_img">
-                            <img src="images/resource/bec.png" alt="" />
-                          </div>
-                          <div class="project_details">
-                            <h3><a href="#" title="">University Website</a></h3>
-                            <span>Barishal Engineering College, Barishal</span>
-                            <div class="project_btns">
-                              <a href="http://bec.edu.bd/" title="" class="link_btn PurpleBgShadow" target="_blank"><i class="fa fa-unlink"></i></a>
-                              <div class="pop_link">
-                                <a href="images/resource/bec.png" title="" class="popup_btn"><i class="fa fa-search"></i></a>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                       <div class="col-lg-4  col-md-6 col-sm-6 col-xs-12 cat2 ">
-                        <div class="project_box">
-                          <div class="project_img">
-                            <img src="images/resource/MASHALLAH-WEBFINAL-3.svg" alt="" />
-                          </div>
-                          <div class="project_details">
-                            <h3><a href="#" title="">Mashallah Shop</a></h3>
-                            <span>E-Commerce Website</span>
-                            <div class="project_btns">
-                              <a href="http://Mashallah.shop/" title="" class="link_btn GreenBgShadow"><i class="fa fa-unlink"  target="_blank"></i></a>
-                              <div class="pop_link">
-                                <a href="images/resource/MASHALLAH-WEBFINAL-3.svg" title="" class="popup_btn"><i class="fa fa-search"></i></a>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <!--<div class="col-lg-4  col-md-6 col-sm-6 col-xs-12 cat1">
-                        <div class="project_box">
-                          <div class="project_img">
-                            <img src="images/resource/project5.jpg" alt="" />
-                          </div>
-                          <div class="project_details">
-                            <h3><a href="#" title="">Creative & Minimal</a></h3>
-                            <span>Minimal, Agency</span>
-                            <div class="project_btns">
-                              <a href="#" title="" class="link_btn PinkBgShadow"><i class="fa fa-unlink"></i></a>
-                              <div class="pop_link">
-                                <a href="images/resource/project_popup5.jpg" title="" class="popup_btn"><i class="fa fa-search"></i></a>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-lg-4  col-md-6 col-sm-6 col-xs-12 cat3">
-                        <div class="project_box">
-                          <div class="project_img">
-                            <img src="images/resource/project6.jpg" alt="" />
-                          </div>
-                          <div class="project_details">
-                            <h3><a href="#" title="">Creative & Minimal</a></h3>
-                            <span>Minimal, Agency</span>
-                            <div class="project_btns">
-                              <a href="#" title="" class="link_btn GrayBgShadow"><i class="fa fa-unlink"></i></a>
-                              <div class="pop_link">
-                                <a href="images/resource/project_popup6.jpg" title="" class="popup_btn"><i class="fa fa-search"></i></a>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div> -->
-                  </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+## 🛠️ Skills
 
-    <!-- <section>
-      <div class="block bg_light">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-xl-10">
-                <div class="heading">
-                  <span class="GreenTextColor">Some Recent Reviews</span>
-                  <h1>Client <i>Reviews</i></h1>
-                </div>
-                <div class="reviews_sec">
-                  <ul id="review_slider">
-                    <li>
-                      <div class="reviews">
-                        <div class="review_img">
-                          <img src="images/resource/reviews1.jpg" alt="" />
-                        </div>
-                        <h3>Jonathan Doe</h3>
-                        <span class="RedTextColor">Creative Designer</span>
-                        <p>It is not every day that you come across a passionate and trustworthy financial advisor. John has encompassed</p>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="reviews">
-                        <div class="review_img">
-                          <img src="images/resource/reviews2.jpg" alt="" />
-                        </div>
-                        <h3>Kerilana Hiest</h3>
-                        <span class="GrayTextColor">Developer</span>
-                        <p>It is not every day that you come across a passionate and trustworthy financial advisor. John has encompassed</p>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="reviews">
-                        <div class="review_img">
-                          <img src="images/resource/reviews1.jpg" alt="" />
-                        </div>
-                        <h3>Jonathan Doe</h3>
-                        <span class="PinkTextColor">Creative Designer</span>
-                        <p>It is not every day that you come across a passionate and trustworthy financial advisor. John has encompassed</p>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="reviews">
-                        <div class="review_img">
-                          <img src="images/resource/reviews2.jpg" alt="" />
-                        </div>
-                        <h3>Kerilana Hiest</h3>
-                        <span class="GreenTextColor">Developer</span>
-                        <p>It is not every day that you come across a passionate and trustworthy financial advisor. John has encompassed</p>
-                      </div>
-                    </li>
-                  </ul>
-                </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section> -->
+- Hydrological Modeling 🌊  
+- MODFLOW & Groundwater Simulation 💧  
+- PHP & MySQL 🔥  
+- GIS & Remote Sensing 🗺️  
+- HTML, CSS, JavaScript  
 
-    
+---
 
-    <section id="contact_us">
-      <div class="block bg_light">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-xl-10">
-                <div class="heading with_btn">
-                  <h1>Have a <i>Questions?</i></h1>
-                  <button id="OpenMap" class="PinkBgShadow"><i class="fa fa-map-marker"></i>WHERE I AM LOCATED</button>
-                </div>
-                <div class="contact_sec">
-                  <div class="row">
-                    <div class="col-xl-12">
-                      
-                      <!-- <div class="contact_box">
-                        <div class="contact_img">
-                          <div class="contact_element">
-                            <img src="images/element_contact1.png" alt="" />
-                          </div>
-                          <img src="images/resource/contact_icon1.png" alt="">
-                        </div>
-                        <div class="contact_info">
-                          <span>Barishal Engineering College Hall,  </span>
-                          <span>Barishal</span>
-                        </div>
-                      </div> -->
-                      <!-- <div class="contact_form">
-                        <div id="contact"  class="get-in-touch">
-                          <div id="message"></div>
-                          
-                      <div class="contact_box">
-                        <div class="contact_img">
-                          <div class="contact_element">
-                            <img src="images/element_contact1.png" alt="" />
-                          </div>
-                          <img src="images/resource/contact_icon1.png" alt="">
-                        </div>
-                        <div class="contact_info">
-                          <span>Barishal Engineering College Hall,  </span>
-                          <span>Barishal</span>
-                        </div>
-                      </div>
-                          Email: WakeUpDhrubo@gmail.com
-                           <form method="post" action="" name="contactform" id="contactform">	
-                            <div class="row">
-                              <div class="col-md-12">
-                                <h3>Hello! My name is</h3>
-                                <input name="name" type="text" id="name" class="input-style" />
-                              </div>
-                              <div class="col-md-12">
-                                <h3>and here is my message:</h3>
-                                <textarea name="comments" id="comments" class="input-style"></textarea>
-                              </div>
-                              <div class="col-md-12">
-                                <h3>I will left you my e-mail - please reply: </h3>
-                                <input name="email" type="text" id="email" class="input-style" />
-                              </div>
-                              <button type="submit" class="theme_btn RedBgShadow" id="submit"><i class="fa  fa-share"></i>Send Message </button>
-                            </div>
-                          </form>
-                        </div>
-                      </div> -->
-                    </div>
-                    <div class="col-xl-12">
-                      <div class="contact_box">
-                        <div class="contact_img">
-                          <div class="contact_element">
-                            <img src="images/element_contact1.png" alt="" />
-                          </div>
-                          <img src="images/resource/contact_icon1.png" alt="">
-                        </div>
-                        <div class="contact_info">
-                          <span>Barishal Engineering College Hall,  </span>
-                          <span>Barishal</span>
-                        </div>
-                      </div>
-                      <div class="contact_box">
-                        <div class="contact_img">
-                          <div class="contact_element">
-                            <img src="images/element_contact2.png" alt="" />
-                          </div>
-                          <img src="images/resource/contact_icon2.png" alt="">
-                        </div>
-                        <div class="contact_info">
-                          <span>+880170-5927257</span>
-                        </div>
-                      </div>
-                      <div class="contact_box">
-                        <div class="contact_img">
-                          <div class="contact_element">
-                            <img src="images/element_contact3.png" alt="" />
-                          </div>
-                          <img src="images/resource/contact_icon3.png" alt="">
-                        </div>
-                        <div class="contact_info">
-                          <span>WakeUpDhrubo@gmail.com</span>
-                          <span>developer@bec.edu.bd</span>
-                        </div>
-                      </div>
-                      <div class="m_on_social">
-                        <h3>Search me on Social</h3>
-                        <a href="http://fb.com/dhruboraj.roy" title="" class="fb_color"><i class="fa fa-facebook"></i></a>
-                        <a href="https://www.instagram.com/dhruboraj.roy/" title="" class="twitter_color"><i class="fa fa-instagram"></i></a>
-                        <a href="http://t.me/dhruboraj.roy" title="" class="google_color"><i class="fa fa-telegram"></i></a>
-                      </div>
+## 🚀 Projects
 
-                    </div>
-                  </div>
-                </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+🔹 University Management System (PHP + MySQL)  
+🔹 Thesis Printing Management System  
+🔹 E-commerce Website  
+🔹 Bus Ticket Management System  
+🔹 Remove Background API Tool  
 
-    <!-- <div class="google_map">
-      <div class="close_map">
-        <span class="RedBgShadow"><i class="fa fa-close"></i></span>
-      </div>
-      <div class="element_moutains_left"><img src="images/element_mountains.jpg" alt="" /></div>
-      <div class="element_moutains_right"><img src="images/element_mountains_flip.jpg" alt="" /></div>
-      <div class="container">
-        <div class="row justify-content-center align-items-center">
-          <div class="col-xl-10">
-            <div class="map_center">
-                <h3>You can find me here..</h3>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d13795.20176850815!2d71.48054636977538!3d30.185694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1578822315837!5m2!1sen!2s"   allowfullscreen=""></iframe>    
-                <div class="pull-left w-100 mt-5">
-                  <div class="row">
-                    <div class="col-xl-6">
-                      <div class="contact_box">
-                        <div class="contact_img">
-                          <div class="contact_element">
-                            <img src="images/element_contact1.png" alt="" />
-                          </div>
-                          <img src="images/resource/contact_icon1.png" alt="">
-                        </div>
-                        <div class="contact_info">
-                          <span>2512 Cherry tree drive </span>
-                          <span>jacksonville</span>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-xl-6">
-                      <div class="contact_box">
-                        <div class="contact_img">
-                          <div class="contact_element">
-                            <img src="images/element_contact2.png" alt="" />
-                          </div>
-                          <img src="images/resource/contact_icon2.png" alt="">
-                        </div>
-                        <div class="contact_info">
-                          <span>+92 25482 6582</span>
-                          <span>061 - 52148 - 545</span>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="col-xl-12">
-                      <div class="m_on_social">
-                        <h3>Search me on Social</h3>
-                        <a href="#" title="" class="fb_color"><i class="fa fa-facebook"></i></a>
-                        <a href="#" title="" class="twitter_color"><i class="fa fa-twitter"></i></a>
-                        <a href="#" title="" class="google_color"><i class="fa fa-google"></i></a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-            </div>
-          </div>
-        </div>
-        
-      </div>
-    </div> -->
+---
 
-    <footer>
-      <div class="block no_padding">
-        <div class="container">
-          <div class="row justify-content-center">
-            <div class="col-xl-10">
-              <div class="bottom_line">
-                <div class="row">
-                  <div class="col-xl-7">
-                    <div class="download_cv_bottom">
-                      <span>Would you like to get my CV in Doc? </span>
-                      <a  href="Dhruboraj%20Roy%27s%20Resume.pdf" class="theme_btn md_btr GrayBgShadow" title=""><i class="fa  fa-long-arrow-down"></i>Download CV </a>
-                    </div>
-                  </div>
-                  <div class="col-xl-5">
-                    <p>Copyright © TheDhrubo.xyz  2018-<span id="year"></span> .</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+## 📊 GitHub Stats
 
-    </footer >
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruborajroy&show_icons=true&theme=radical" />
+</p>
 
-    <script src="js/jquery.min.js"></script>
-    <script src="js/modernizr.js"></script>
-    <script src="js/script.js"></script>
-    <script src="js/slick.min.js"></script>
-    <script src="js/bootstrap.bundle.js"></script>
-    <script src="js/isotop.js"></script>
-    <script src="js/poptrox.js"></script>
-    <script src="js/jquery.jigowatt.js"></script>
-    <script src="js/enllax.js"></script>
-    <script src="js/jquery.scroller.js"></script>
-    <script src="js/jQuery_nav.js"></script>
-    <script>
-      document.getElementById("year").textContent = new Date().getFullYear();
-  </script>
-  </body>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruborajroy&theme=radical" />
+</p>
 
-</html>
+---
+
+## 🌐 Connect with Me
+
+📧 Email: dhruborajroy3@gmail.com  
+📱 Phone: +8801705927257  
+
+🌍 Portfolio: https://bec.edu.bd/developer/  
+
+- Facebook: https://fb.com/dhruboraj.roy  
+- Instagram: https://www.instagram.com/dhruboraj.roy/  
+- Telegram: http://t.me/dhruboraj.roy  
+
+---
+
+## 🏆 Achievements
+
+- 🎓 ICCR Scholarship (India)  
+- 📈 CGPA: 3.40 / 4.00  
+- 🥇 Science Fair Champion (2017)  
+
+---
+
+## ⚡ Fun Fact
+
+I combine **Civil Engineering + Programming + Research**  
+to solve real-world water and climate problems 🌍
+
+---
+
+⭐ *"Engineering the future with data, water, and code."*
