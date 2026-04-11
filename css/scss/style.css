@@ -2080,8 +2080,8 @@ header nav ul li .GrayTextColor.active::before {
   width: 100%;
   position: relative;
   margin-top: 30px;
-  padding-left: 170px;
-  padding-right: 170px;
+  /* padding-left: 170px; */
+  /* padding-right: 170px; */
 }
 
 .exp_slider_sec::before {
